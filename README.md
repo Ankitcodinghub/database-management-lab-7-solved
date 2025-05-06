@@ -1,0 +1,1 @@
+# database-management-lab-7-solved
